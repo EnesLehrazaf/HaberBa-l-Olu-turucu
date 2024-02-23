@@ -1,10 +1,10 @@
 {
-    "api_key": "d831c8bcfafc40a8a639e9e680abd313",
+    "api_key": "d831c8bcdfg5657dfghdf80abd313",
     "email_settings": {
         "smtp_server": "smtp.gmail.com",
         "smtp_port": 587,
-        "gmail_user": "enes.zarraf@gmail.com",
-        "gmail_password": "bmdkbpqleuggzkzx"
+        "gmail_user": "enes.test@gmail.com",
+        "gmail_password": "bmd453456vbfghjkzx"
     }
 }
 
